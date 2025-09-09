@@ -36,7 +36,7 @@ By combining a **high-performance ML model** with an **intuitive dashboard**, Ch
 - **Intervention Simulator** – outcomes of interventions  
 - **Model Analytics** – evaluation plots auto-generated  
 
-*(Screenshots/visuals can go here!)*
+
 
 ---
 
